@@ -1,0 +1,9 @@
+﻿---
+applications:
+- name: cf-dotnet6-ldap
+  buildpack: dicf_dotnet_core_buildpack_latest
+  instances: 1
+  memory: 128M
+  stack: cflinuxfs3
+  env:
+    ASPNETCORE_ENVIRONMENT: Development
