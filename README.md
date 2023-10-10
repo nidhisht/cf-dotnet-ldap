@@ -13,5 +13,11 @@ https://localhost:5127/search
 
 # How to deploy code on PCF
 1) Publish the code
-2) cf push
-3) Run the app
+   ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/0a5f5144-81a5-4063-ab27-87e552bf07cb)
+
+3) cf push
+   ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/209ebaf4-f7dd-4980-aac5-e444b5d68da6)
+
+5) Run the app
+   ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/2c9b4d32-29cf-4b92-86fd-bdb80730a531)
+
