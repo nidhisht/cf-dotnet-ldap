@@ -19,7 +19,9 @@ https://localhost:5127/search
    ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/209ebaf4-f7dd-4980-aac5-e444b5d68da6)
 
 5) Run the app
-   **NOTE**: App with cflinuxfs3 stack successfully query user details from LDAP. But it fails to query with cflinuxfs4 stack. Below screenshot refers to app with cflinuxfs3 stack.
+   
   ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/ef2c7c9c-d6be-43f6-8b2d-9dffdca5d3f8)
+
+  **NOTE**: App with cflinuxfs3 stack successfully query user details from LDAP. But it fails to query with cflinuxfs4 stack. Above screenshot refers to app with cflinuxfs3 stack.
 
 
