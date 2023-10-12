@@ -22,9 +22,8 @@ Note: Modify [buildpack](https://github.com/nidhisht/cf-dotnet-ldap/blob/3d7082e
    ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/209ebaf4-f7dd-4980-aac5-e444b5d68da6)
 
 5) Run the app
-   
-  ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/ef2c7c9c-d6be-43f6-8b2d-9dffdca5d3f8)
+   ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/ef2c7c9c-d6be-43f6-8b2d-9dffdca5d3f8)
 
-  **NOTE**: App with cflinuxfs3 stack successfully query user details from LDAP. But it fails to query with cflinuxfs4 stack. Above screenshot refers to app with cflinuxfs3 stack.
+  **NOTE**: App with [cflinuxfs3](https://github.com/nidhisht/cf-dotnet-ldap/blob/f70a641092d8174281636b4ea530679f26e66074/cf-dotnet6-ldap/manifest.yml#L7) stack successfully query user details from LDAP. But it fails to query with cflinuxfs4 stack. Above screenshot refers to app with cflinuxfs3 stack.
 
 
