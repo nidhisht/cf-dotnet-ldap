@@ -12,7 +12,10 @@ https://localhost:5127/search
 ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/e9269ddf-c2cf-49f4-9210-d88296048279)
 
 # How to deploy code on PCF
-1) Publish the code
+Note: Modify [buildpack](https://github.com/nidhisht/cf-dotnet-ldap/blob/3d7082e92acdaa40ba8d929097835c6eaed5836c/cf-dotnet6-ldap/manifest.yml#L4C16-L4C16) property in the manifest.yml
+
+
+1) Build and Publish the code
    ![image](https://github.com/nidhisht/cf-dotnet-ldap/assets/42999787/0a5f5144-81a5-4063-ab27-87e552bf07cb)
 
 3) cf push
